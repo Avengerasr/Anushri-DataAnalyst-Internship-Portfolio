@@ -52,7 +52,7 @@ To analyze sales data, extract meaningful insights, and present business recomme
 
 ##  Final Presentation
 
-👉 [Upload your PPT here and paste link]
+   presentation.pptx
 
 ---
 
@@ -92,5 +92,5 @@ To analyze sales data, extract meaningful insights, and present business recomme
 
 ## 🔗 Connect With Me
 
-* LinkedIn: [Add your LinkedIn link]
+* LinkedIn: www.linkedin.com/in/anushri-ramteke-3b62003b0
 * GitHub: [Your GitHub profile link]
